@@ -13,6 +13,7 @@
 			<outline text="JUGANTOR" title="JUGANTOR" description="RSS feed of latest topics" xmlUrl="https://www.jugantor.com/feed/rss.xml" type="rss" />
 			<outline text="jagonews24.com | rss Feed" title="jagonews24.com | rss Feed" description="A RSS news feed containing the latest Jago News articles." xmlUrl="https://www.jagonews24.com/rss/rss.xml" type="rss" />
 			<outline text="kalerkantho Kantho" title="kalerkantho Kantho" description="kalerkantho.com RSS Feed" xmlUrl="https://www.kalerkantho.com/rss.xml" type="rss" />
+                        <outline text="eaicampus patrika" title="eaicampus patrika" description="eaicampus.com RSS Feed" xmlUrl="https://www.eaicampus.com/feed/gn" type="rss" />
 			<outline text="প্রথম আলো" title="প্রথম আলো" description="" xmlUrl="https://www.prothomalo.com/feed/" type="rss" />
 		</outline>
 	</body>
